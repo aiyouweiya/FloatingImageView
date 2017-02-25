@@ -27,7 +27,7 @@
         android:id="@+id/img_fab"
         android:layout_width="?attr/actionBarSize"
         android:layout_height="?attr/actionBarSize"
-        android:background="@drawable/fabi_layer"
+        android:background="@drawable/fab_layer"
         android:src="@drawable/ic_done_white_24dp"
         android:layout_gravity="bottom|right"
         android:elevation="8dp"
