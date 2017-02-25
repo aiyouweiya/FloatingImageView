@@ -1,0 +1,2 @@
+# FloatingImageView
+让ImageView在Android Lollipop之前的版本浮动起来
